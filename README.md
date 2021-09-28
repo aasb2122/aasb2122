@@ -1,4 +1,4 @@
-### Hi there 👋
+### Conteúdos
 
 <!--
 **aasb2122/aasb2122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Apresentacao](apres.pdf)
+- [Apresentacao da UC](apres.pdf)
+- [Aula 1](ficha01.pdf)
+- [Aula 2](ficha02.pdf)
